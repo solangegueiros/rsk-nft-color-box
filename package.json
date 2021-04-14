@@ -1,0 +1,32 @@
+{
+  "name": "rsk-nft-color-box",
+  "version": "1.0.0",
+  "description": "NFT - token ERC721 on RSK network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangegueiros/rsk-nft-color-box.git"
+  },  
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "truffle",
+    "truffle box",
+    "rsk",
+    "rsksmart", 
+    "nft"
+  ],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.0.0",
+    "@truffle/hdwallet-provider": "1.2.2"
+  }
+}
